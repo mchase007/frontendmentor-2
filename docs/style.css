@@ -62,17 +62,16 @@ h1 {
   margin-bottom: 13px;
   color: #070439; }
 
-p, h2 {
-  font-family: "Open Sans", sans-serif; }
-
 .content-container p {
   max-width: 400px;
   margin-bottom: 25px;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   color: gray; }
 
 .content-container h2 {
   margin-bottom: 13px;
+  font-family: "Raleway", sans-serif;
   font-size: 13px;
   color: #070439; }
 
@@ -84,7 +83,10 @@ p, h2 {
   margin-right: 10px;
   margin-bottom: 20px;
   font-family: "Open Sans", sans-serif;
-  border: none;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  -webkit-border-radius: none;
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); }
 
@@ -93,8 +95,11 @@ p, h2 {
   height: 40px;
   background-color: #05d69b;
   color: #ffffff;
-  font-family: "Open Sans" , sans-serif;
-  border: none;
+  font-family: "Open Sans", sans-serif;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  -webkit-border-radius: none;
   -webkit-box-shadow: 0.5px 2px 1px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0.5px 2px 1px 0 rgba(0, 0, 0, 0.2); }
 
