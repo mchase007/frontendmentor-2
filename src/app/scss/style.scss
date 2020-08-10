@@ -107,21 +107,22 @@ p, h2 {
   margin-right: 10px;
   margin-bottom: 20px;
   
-  font-family: "Open Sans";
-  
-  border: none;
+  font-family: "Open Sans", sans-serif;
+  appearance: none;
+  -webkit-border-radius: none;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .submit-button {
   width: 120px;
   height: 40px;
+
   
   background-color: hsl(163, 95%, 43%);
   color: #ffffff;
-  font-family: "Open Sans";
-  
-  border: none;
+  font-family: "Open Sans", sans-serif;
+  appearance: none;
+  -webkit-border-radius: none;
   box-shadow: 0.5px 2px 1px 0 rgba(0, 0, 0, 0.2);
 }
 
