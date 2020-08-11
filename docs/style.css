@@ -83,6 +83,7 @@ h1 {
   margin-right: 10px;
   margin-bottom: 20px;
   font-family: "Open Sans", sans-serif;
+  border: none;
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
@@ -96,6 +97,7 @@ h1 {
   background-color: #05d69b;
   color: #ffffff;
   font-family: "Open Sans", sans-serif;
+  border: none;
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
